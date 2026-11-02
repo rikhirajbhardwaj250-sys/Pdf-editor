@@ -1,0 +1,6 @@
+{
+  "name": "PDF Editor Pro",
+  "description": "Professional PDF Editor, Scanner, Converter and Document Management Toolkit",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
